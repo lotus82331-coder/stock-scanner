@@ -1,0 +1,7 @@
+finance-datareader
+pandas
+numpy
+plotly
+requests
+streamlit-autorefresh
+pytz
